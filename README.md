@@ -1,4 +1,4 @@
-@reesyn | Rachael
+@rachls | Rachael
 - Undergraduate Student
 - Language: R
 
